@@ -1,3 +1,3 @@
 # exerciceoc
-Exercice cours OC
-ajout d'une ligne sur le fichier readme.md
+CV online 
+fichier de base de mon cv online
